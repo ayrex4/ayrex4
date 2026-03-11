@@ -68,13 +68,13 @@ const ayrex4 = {
 # 📊 GitHub Activity
 
 <div align="center">
-<!--
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayrex4&bg_color=1a1b27&color=70a5fd&line=39d353&point=FFFFFF&hide_border=true&theme=react-dark" width="100%"/>
--->
+
 <br><br>
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=ayrex4&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1a1b27"/>
-
+-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayrex4&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27"/>
 
 </div>
