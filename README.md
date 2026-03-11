@@ -13,7 +13,7 @@ I am a **Software Engineering student** with a passion for coding and building c
 When I'm not writing code or building interfaces, I mix logic with art through music and design.
 
 ```javascript
-const aymane = {
+const ayrex4 = {
   occupation: "Software Engineering Student",
   interests: [
     "Software Development",
@@ -69,13 +69,13 @@ const aymane = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=39d353&point=FFFFFF&hide_border=true&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayrex4&bg_color=1a1b27&color=70a5fd&line=39d353&point=FFFFFF&hide_border=true&theme=react-dark" width="100%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1a1b27"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayrex4&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1a1b27"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayrex4&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27"/>
 
 </div>
 
@@ -83,7 +83,7 @@ const aymane = {
 
 # 🌐 Connect With Me
 
-<a href="mailto:your.email@example.com">
+<a href="aissaoui.aymane.24@ump.ac.ma">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -91,6 +91,6 @@ const aymane = {
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://discordapp.com/users/YOUR_DISCORD_ID">
+<a href="https://discordapp.com/users/phan_tom_7">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
